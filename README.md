@@ -6,6 +6,9 @@ I'm passionate about low-level programming, compiler design, and operating syste
 
 Recently, I've started learning the LLVM compiler and its architecture. And as a part of this process, I'll write short articles explaining LLVM in my own words.
 
+I've started writing blogs about things I'm learning, and exploring to help me understand the concepts better and share the knowledge. 
+Medium Link:- https://medium.com/@natasha_mundada
+
 
 # **My Education** :mortar_board:
 
