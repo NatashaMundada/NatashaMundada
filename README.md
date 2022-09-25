@@ -37,30 +37,30 @@ CS 5600:- Computer Systems
  and submitting/ deploying files on the large farm of machines, Kubernetes pods, and Docker containers.
 
 * nSpect and Coverity Vulnerability Fixes 
- * Helped fix different vulnerabilities related to maven jars and Coverity issues that might leak data or be vulnerable to attacks like DDoS.
+  * Helped fix different vulnerabilities related to maven jars and Coverity issues that might leak data or be vulnerable to attacks like DDoS.
 
 * Modification of GVS User Interface 
- * I assisted in fulfilling multiple client requests related to the platform IPP provides for examining failed/passing builds and packages using HTML, JSF, and JavaScript. Modifying the GVS user interface to make it more readable was one of the requests.
+  * I assisted in fulfilling multiple client requests related to the platform IPP provides for examining failed/passing builds and packages using HTML, JSF, and JavaScript. Modifying the GVS user interface to make it more readable was one of the requests.
 
 * Threat Model for GVS Services
- * Helped developed threat models for services using Microsoft’s Threat Modeling Tool to identify different vulnerabilities, and threats in the workflow of a project.
+  * Helped developed threat models for services using Microsoft’s Threat Modeling Tool to identify different vulnerabilities, and threats in the workflow of a project.
  
 * Auto-deployer for AWS Projects
- * Some GVS projects are hosted on AWS for external users. Developed an auto-deployer to deploy changes on AWS and modify the database as per user requests.
+  * Some GVS projects are hosted on AWS for external users. Developed an auto-deployer to deploy changes on AWS and modify the database as per user requests.
 
 * Perforce Security Projects
- * Successfully helped deliver multiple Perforce security projects. Perforce Unified Tickets security enhancement helped login using a single ticket hash for multiple perforce users, eliminating the need to maintain multiple P4 tickets.
+  * Successfully helped deliver multiple Perforce security projects. Perforce Unified Tickets security enhancement helped login using a single ticket hash for multiple perforce users, eliminating the need to maintain multiple P4 tickets.
 
 * Request for Evidence
- * Delivered 20+ client requests which involved making changes in the user interface to make test and package failures more readable.
+  * Delivered 20+ client requests which involved making changes in the user interface to make test and package failures more readable.
 
 * TAT and Storage Optimization
- * Delivered a functionality that prevented users from uploading large artifacts that could cause storage difficulties. 
- * This feature was an individual project that aided in the optimization of storage systems and helped reduce TAT.
+  * Delivered a functionality that prevented users from uploading large artifacts that could cause storage difficulties. 
+  * This feature was an individual project that aided in the optimization of storage systems and helped reduce TAT.
 
 * Kibana Dashboard
- * Created multiple Kibana dashboards for clients and internal usage to understand the TAT flow, package failures, service performance, etc.
- * These dashboards helped customers as well as the team to track the statistics more easily.
+  * Created multiple Kibana dashboards for clients and internal usage to understand the TAT flow, package failures, service performance, etc.
+  * These dashboards helped customers as well as the team to track the statistics more easily.
 
 ### **Intern at NVIDIA Graphics Private Limited** 👩‍💻  (June 2019 - December 2019) 
 * CI/CD Pipeline for Harness
