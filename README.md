@@ -33,7 +33,7 @@ CS 5600:- Computer Systems
 * I was part of the GVS (Gerrit Virtual Submit) team and my work involved working on security-related bugs, automating tasks using Shell script, Jenkins and delivering 15+ functionalities to users. 
 
 * Auto-deployer for GVS Projects
- * Developed an auto-deployer to deploy Gerrit and Perforce-based projects on the target servers. The deployment process involved making database changes,
+  * Developed an auto-deployer to deploy Gerrit and Perforce-based projects on the target servers. The deployment process involved making database changes,
  and submitting/ deploying files on the large farm of machines, Kubernetes pods, and Docker containers.
 
 * nSpect and Coverity Vulnerability Fixes 
