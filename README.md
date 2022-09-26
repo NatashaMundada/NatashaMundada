@@ -24,7 +24,7 @@ CS 5600:- Computer Systems
 
 # **Work Experience** 💻 
 
-### **Graduate Teaching Assistant** 👩‍💻 (September 2022 - Present)
+### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (September 2022 - Present)
 * Assisting professor Eli Barzilay for the course CS 4400/ 5400:- Programming Languages. 
 * This course involves working with Racket and understanding the different aspects related to the development of a programming language. 
 * As a graduate teaching assistant, I'm responsible for conducting office hours to resolve doubts and grade assignments of a 80+ students class.
