@@ -30,7 +30,7 @@ CS 5600:- Computer Systems
 * As a graduate teaching assistant, I'm responsible for conducting office hours to resolve doubts and grade assignments of a 80+ students class.
 * Skills:- Racket, Programming Language, Compiler.
 
-### **System Software Engineer** 👩‍💻 (August 2020 - August 2022)
+### **System Software Engineer at NVIDIA Graphics Pvt. Ltd.** 👩‍💻 (August 2020 - August 2022)
 * I was part of the GVS (Gerrit Virtual Submit) team and my work involved working on security-related bugs, automating tasks using Shell script, Jenkins and delivering 15+ functionalities to users. 
 
 * Auto-deployer for GVS Projects
