@@ -34,8 +34,7 @@ CS 5600:- Computer Systems
 * I was part of the GVS (Gerrit Virtual Submit) team and my work involved working on security-related bugs, automating tasks using Shell script, Jenkins and delivering 15+ functionalities to users. 
 
 * Auto-deployer for GVS Projects
-  * Developed an auto-deployer to deploy Gerrit and Perforce-based projects on the target servers. The deployment process involved making database changes,
- and submitting/ deploying files on the large farm of machines, Kubernetes pods, and Docker containers.
+  * Developed an auto-deployer to deploy Gerrit, AWS and Perforce-based projects on the target servers. The deployment process involved making database changes,and submitting/ deploying files on the large farm of machines, Kubernetes pods, and Docker containers.
   * Skills:- Kubernetes, Jenkins, Shell script
 
 * nSpect and Coverity Vulnerability Fixes 
@@ -43,16 +42,9 @@ CS 5600:- Computer Systems
   * Skills:- Coverity Scan, Maven. 
 
 * Modification of GVS User Interface 
-  * I assisted in fulfilling multiple client requests related to the platform IPP provides for examining failed/passing builds and packages using HTML, JSF, and JavaScript. Modifying the GVS user interface to make it more readable was one of the requests.
+  * Delivered 15+ client requests which involved making changes to the IPP tracking platform to easily examine the failed/passing builds and packages. 
   * Skills:- Java, JSF, HTML.
-
-* Threat Model for GVS Services
-  * Helped developed threat models for services using Microsoft’s Threat Modeling Tool to identify different vulnerabilities, and threats in the workflow of a project.
-  * Skills:- Microsoft Threat Model Tool
  
-* Auto-deployer for AWS Projects
-  * Some GVS projects are hosted on AWS for external users. Developed an auto-deployer to deploy changes on AWS and modify the database as per user requests.
-
 * Perforce Security Projects
   * Successfully helped deliver multiple Perforce security projects. Perforce Unified Tickets security enhancement helped login using a single ticket hash for multiple perforce users, eliminating the need to maintain multiple P4 tickets.
   * Skills:- Perforce, Vault.
@@ -64,12 +56,8 @@ CS 5600:- Computer Systems
 * TAT and Storage Optimization
   * Delivered a functionality that prevented users from uploading large artifacts that could cause storage difficulties. 
   * This feature was an individual project that aided in the optimization of storage systems and helped reduce TAT.
-  * Developed dashboards to track the TAT optimization. 
+  * Developed Kibana dashboards to track the TAT optimization. 
   * Skills:- SQL, Java, Kibana.
-
-* Kibana Dashboard
-  * Created multiple Kibana dashboards for clients and internal usage to understand the TAT flow, package failures, service performance, etc.
-  * These dashboards helped customers as well as the team to track the statistics more easily.
 
 ### **Intern at NVIDIA Graphics Private Limited** 👩‍💻  (June 2019 - December 2019) 
 * CI/CD Pipeline for Harness
