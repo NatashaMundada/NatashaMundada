@@ -2,9 +2,8 @@
 
 **Hello, I'm Natasha Mundada.**
 
-I'm passionate about low-level programming, compiler design, and operating system concepts. I believe compilers will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning, etc. And I would love to contribute to making a significant difference and taking compiler and operating systems to the next level. 🤓
+I'm passionate about low-level programming, compiler design, CPUs and operating system concepts. I believe embedded systems like CPUs, OS, etc. will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning, etc. And I would love to contribute to making a significant difference and taking machine-level programming to the next level. 🤓
 
-Recently, I've started learning the LLVM compiler and its architecture. And as a part of this process, I'll write short articles explaining LLVM in my own words.
 
 I've started writing blogs about things I'm learning to help me understand the concepts better and share the knowledge. 
 Medium Link:- https://medium.com/@natasha_mundada
@@ -12,10 +11,11 @@ Medium Link:- https://medium.com/@natasha_mundada
 
 # **My Education** :mortar_board:
 
-:school:	**Master's in Computer Science**:- Pursuing my MS in Computer Sience from Northeastern University, Bosto, MA. My courses are focused towards machine-level programming, operating systems and compilers. 
+:school:	**Master's in Computer Science**:- Pursuing my MS in Computer Sience from Northeastern University, Boston, MA. My courses are focused towards machine-level programming, operating systems and compilers. 
 Courses:- 
 CS 5010:- Programming Design Paradigm
 CS 5600:- Computer Systems
+CS 5800:- Algorithms
 
 :school:	**Bachelor of Technology in Computer Engineering**:- I completed my B. Tech from Vishwakarma Institute of Technology, Pune, India (9.13 CPI). During my engineering course, I explored some new fields like Artificial Intelligence, Data Science, Machine Learning, etc. Compiler Design, Operating Systems, and Theory of Computation were the other interesting subjects I deep-dived into during this degree course.
 
@@ -24,10 +24,13 @@ CS 5600:- Computer Systems
 
 # **Work Experience** 💻 
 
-### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (September 2022 - Present)
-* Assisting professor Eli Barzilay for the course CS 4400/ 5400:- Programming Languages. 
+### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (January 2023 - Present)
+* Assisting professors Ferdinand Vesely and Ji-Yong Shin for the course CS 3650 :- Computer Systems. (https://course.ccs.neu.edu/cs3650sp23/)
+
+### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (September 2022 - December 2022)
+* Assisted professor Eli Barzilay for the course CS 4400/ 5400:- Programming Languages. (https://pl.barzilay.org)
 * This course involves working with Racket and understanding the different aspects related to the development of a programming language. 
-* As a graduate teaching assistant, I'm responsible for conducting office hours to resolve doubts and grade assignments of a 80+ students class.
+* As a graduate teaching assistant, I was responsible for conducting office hours to resolve doubts and grade assignments of a 80+ students class.
 * Skills:- Racket, Programming Language, Compiler.
 
 ### **System Software Engineer at NVIDIA Graphics Pvt. Ltd.** 👩‍💻 (August 2020 - August 2022)
