@@ -8,14 +8,13 @@ I'm passionate about low-level programming, compiler design, CPUs and operating 
 I've started writing blogs about things I'm learning to help me understand the concepts better and share the knowledge. 
 Medium Link:- https://medium.com/@natasha_mundada
 
-
 # **My Education** :mortar_board:
 
 :school:	**Master's in Computer Science**:- Pursuing my MS in Computer Sience from Northeastern University, Boston, MA. My courses are focused towards machine-level programming, operating systems and compilers. 
-Courses:- 
-CS 5010:- Programming Design Paradigm
-CS 5600:- Computer Systems
-CS 5800:- Algorithms
+* Courses:- 
+   * CS 5010:- Programming Design Paradigm
+   * CS 5600:- Computer Systems
+   * CS 5800:- Algorithms
 
 :school:	**Bachelor of Technology in Computer Engineering**:- I completed my B. Tech from Vishwakarma Institute of Technology, Pune, India (9.13 CPI). During my engineering course, I explored some new fields like Artificial Intelligence, Data Science, Machine Learning, etc. Compiler Design, Operating Systems, and Theory of Computation were the other interesting subjects I deep-dived into during this degree course.
 
