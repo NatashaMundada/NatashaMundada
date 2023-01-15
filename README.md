@@ -2,6 +2,8 @@
 
 **Hello, I'm Natasha Mundada.**
 
+I'm pursuing master's in computer science at Northeastern University. I have 2+ years of industry experience of developing and deploying softwares. 
+
 I'm passionate about low-level programming, compiler design, CPUs and operating system concepts. I believe embedded systems like CPUs, OS, etc. will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning, etc. And I would love to contribute to making a significant difference and taking machine-level programming to the next level. 🤓
 
 
@@ -15,6 +17,7 @@ Medium Link:- https://medium.com/@natasha_mundada
    * CS 5010:- Programming Design Paradigm
    * CS 5600:- Computer Systems
    * CS 5800:- Algorithms
+   * CS 5200:- Database Management Systems
 
 :school:	**Bachelor of Technology in Computer Engineering**:- I completed my B. Tech from Vishwakarma Institute of Technology, Pune, India (9.13 CPI). During my engineering course, I explored some new fields like Artificial Intelligence, Data Science, Machine Learning, etc. Compiler Design, Operating Systems, and Theory of Computation were the other interesting subjects I deep-dived into during this degree course.
 
