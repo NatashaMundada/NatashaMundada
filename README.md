@@ -8,6 +8,8 @@ I'm passionate about low-level programming, compiler design, CPUs and operating 
 
 
 I've started writing blogs about things I'm learning to help me understand the concepts better and share the knowledge. 
+"If you want to master something, teach it" - Richard Feynman. 
+
 Medium Link:- https://medium.com/@natasha_mundada
 
 # **My Education** :mortar_board:
@@ -28,6 +30,7 @@ Medium Link:- https://medium.com/@natasha_mundada
 
 ### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (January 2023 - Present)
 * Assisting professors Ferdinand Vesely and Ji-Yong Shin for the course CS 3650 :- Computer Systems. (https://course.ccs.neu.edu/cs3650sp23/)
+* Mentoring a class of 200+ students by resolving doubts, providing guidance on C, operating systems, assembly language, Linux, and grading assignments.
 
 ### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (September 2022 - December 2022)
 * Assisted professor Eli Barzilay for the course CS 4400/ 5400:- Programming Languages. (https://pl.barzilay.org)
@@ -75,7 +78,6 @@ Medium Link:- https://medium.com/@natasha_mundada
 * Dockerization of Harness
   * Harness set up on any machine requires a great amount of manual effort. This setup also has challenges like package dependency, version mismatch, etc. 
   * The goal of this project was to develop a Docker image of Harness which can be used to create Docker Containers in any environment.
-
 
 
 
