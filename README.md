@@ -32,6 +32,7 @@ Medium Link:- https://medium.com/@natasha_mundada
 ### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (January 2023 - Present)
 * Assisting professors Ferdinand Vesely and Ji-Yong Shin for the course CS 3650 :- Computer Systems. (https://course.ccs.neu.edu/cs3650sp23/)
 * Mentoring a class of 200+ students by resolving doubts, providing guidance on C, operating systems, assembly language, Linux, and grading assignments.
+* Skills:- C, x86, GDB, Linux, Operating System concepts, Make. 
 
 ### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (September 2022 - December 2022)
 * Assisted professor Eli Barzilay for the course CS 4400/ 5400:- Programming Languages. (https://pl.barzilay.org)
