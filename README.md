@@ -8,6 +8,7 @@ I'm passionate about low-level programming, compiler design, CPUs and operating 
 
 
 I've started writing blogs about things I'm learning to help me understand the concepts better and share the knowledge. 
+
 "If you want to master something, teach it" - Richard Feynman. 
 
 Medium Link:- https://medium.com/@natasha_mundada
