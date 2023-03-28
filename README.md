@@ -1,6 +1,6 @@
 # Portfolio
 
-**Hello, I'm Natasha Mundada.**
+**Hello There! I'm Natasha, a passionate programmer and a problem solver.**
 
 I'm pursuing master's in computer science at Northeastern University. I have 2+ years of industry experience of developing and deploying softwares. 
 
