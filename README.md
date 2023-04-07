@@ -13,6 +13,24 @@ I write blogs on Medium about things I'm learning to help me understand the conc
 
 Medium Link:- https://medium.com/@natasha_mundada
 
+
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/productive.gif" width="370" height="300" align="right"/>
+
+<div>
+- 🔭 I’m currently working on mastering my CUDA skills<br>
+- 🌱 I’m developoing my own lexical analyzer<br>
+- 👯 I’m looking to collaborate on OS projects<br>
+- 🤔 I’m looking for help with learning AWS<br>
+- 💬 Ask me about OS/CPU, Sudoku, Puzzles, Books and Cooking<br>
+- ⚡️ Fun fact: I'm hooked to Wordle :)<br>
+- 📫 Reach me at my email (natashamundada11@gmail.com) or at my social: <br>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/natasha-mundada/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light"></a>
+<br>
+</div>
+
+#### ⚡ Skills
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,linux,vim,eclipse,docker,kubernetes,mysql,mongodb,sqlite,html,git,github,gitlab&theme=light&perline=7)](https://skillicons.dev)
+
 # **My Education** :mortar_board:
 
 :school:	**Master's in Computer Science**:- Pursuing my MS in Computer Sience from Northeastern University, Boston, MA. My courses are focused towards machine-level programming, operating systems and compilers. 
