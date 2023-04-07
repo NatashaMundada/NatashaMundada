@@ -4,7 +4,7 @@
 
 I'm pursuing master's in computer science at Northeastern University. I have 2+ years of industry experience of developing and deploying softwares. 
 
-I'm passionate about low-level programming, compiler design, CPUs and operating system concepts. I believe embedded systems like CPUs, OS, etc. will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning, etc. And I would love to contribute to making a significant difference and taking machine-level programming to the next level. 🤓
+I'm passionate about low-level programming, compiler design, CPUs and operating system concepts. I believe embedded systems like CPUs, OS, etc. will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning. And I would love to contribute to making a significant difference and taking machine-level programming to the next level. 🤓
 
 
 I write blogs on Medium about things I'm learning to help me understand the concepts better and share the knowledge. 
