@@ -1,13 +1,13 @@
 # Portfolio
 
-**Hello There! I'm Natasha, a passionate programmer and a problem solver.**
+**Hello There! I'm Natasha, a passionate programmer, and a problem solver.**
 
-I'm pursuing master's in computer science at Northeastern University. I have 2+ years of industry experience of developing and deploying softwares. 
+I'm a computer science grad student at Northeastern University. I have 2+ years of industry experience in developing and deploying software.
 
-I'm passionate about low-level programming, compiler design, CPUs and operating system concepts. I believe embedded systems like CPUs, OS, etc. will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning. And I would love to contribute to making a significant difference and taking machine-level programming to the next level. 🤓
+I'm passionate about low-level programming, compiler design, CPUs, and operating system concepts. I believe embedded systems like CPUs, OS, etc. will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning. And I would love to make a significant difference and take machine-level programming to the next level. 🤓
 
+I write blogs on Medium about things I'm learning to help me understand the concepts better and share the knowledge.
 
-I write blogs on Medium about things I'm learning to help me understand the concepts better and share the knowledge. 
 
 "If you want to master something, teach it" - Richard Feynman. 
 
