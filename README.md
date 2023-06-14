@@ -2,16 +2,13 @@
 
 **Hello There! I'm Natasha, a passionate programmer, and a problem solver.**
 
-I'm a computer science grad student at Northeastern University. I have 2+ years of industry experience in developing and deploying software.
+I'm a computer science grad student at Northeastern University. I have 2+ years of industry experience in developing and deploying software. I am a skilled professional passionate about CPU Design, Operating Systems, GPU Programming, and Software Development. 🤓
 
-I'm passionate about low-level programming, compiler design, CPUs, and operating system concepts. I believe embedded systems like CPUs, OS, etc. will get smarter with the increasing demand and high computational requirements of Artificial Intelligence, Machine Learning. And I would love to make a significant difference and take machine-level programming to the next level. 🤓
-
-I write blogs on Medium about things I'm learning to help me understand the concepts better and share the knowledge.
-
+I write blogs on Medium about things I'm learning to help me understand the concepts better and share the knowledge. Medium Link:- https://medium.com/@natasha_mundada
 
 "If you want to master something, teach it" - Richard Feynman. 
 
-Medium Link:- https://medium.com/@natasha_mundada
+
 
 
 <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/productive.gif" width="370" height="300" align="right"/>
