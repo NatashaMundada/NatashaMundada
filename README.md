@@ -47,6 +47,10 @@ Medium Link:- https://medium.com/@natasha_mundada
 
 # **Work Experience** 💻 
 
+### **Software Engineer Intern at WHOOP** 👩‍💻 (June 2023 - Present)
+* Skills:- Java, JUnit, GitHub, PostgreSQL. 
+
+
 ### **Graduate Teaching Assistant at Northeastern University** 👩‍💻 (January 2023 - April 2023)
 * Assisting professors Ferdinand Vesely and Ji-Yong Shin for the course CS 3650 :- Computer Systems. (https://course.ccs.neu.edu/cs3650sp23/)
 * Mentoring a class of 200+ students by resolving doubts, providing guidance on C, operating systems, assembly language, Linux, and grading assignments.
